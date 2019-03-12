@@ -1,0 +1,9 @@
+https://stackoverflow.com/questions/16476924/how-to-iterate-over-rows-in-a-dataframe-in-pandas
+https://chrisalbon.com/python/data_wrangling/pandas_replace_values/
+http://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.cut.html
+https://stackoverflow.com/questions/9758450/pandas-convert-dataframe-to-array-of-tuples
+https://stackoverflow.com/questions/8214932/how-to-check-if-a-value-exists-in-a-dictionary-python
+https://stackoverflow.com/questions/3845362/how-can-i-check-if-a-key-exists-in-a-dictionary
+https://stackoverflow.com/questions/16138015/checking-if-any-elements-in-one-list-are-in-another
+https://stackoverflow.com/questions/1720421/how-to-concatenate-two-lists-in-python
+https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset
